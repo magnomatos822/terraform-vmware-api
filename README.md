@@ -1,17 +1,13 @@
 <!-- BEGIN_TF_DOCS -->
-# Main title
-
-Everything in this comment block will get extracted.
-
-You can put simple text or complete Markdown content
-here. Subsequently if you want to render AsciiDoc format
-you can put AsciiDoc compatible content in this comment
-block.
+# Resumo
+Este projeto é um exemplo de uso do Terraform para estabelecer uma conexão com a API do VMware vSphere. Utilizando o provider Terraform para vSphere, o projeto facilita a automação e o gerenciamento de infraestrutura virtualizada. Inclui configurações básicas e scripts necessários para a implementação. É adequado para administradores de sistemas e engenheiros de DevOps que buscam integrar o Terraform em seus ambientes de VMware. A documentação acompanha detalhamento das etapas de configuração e uso.
 
 ## Requirements
 
-No requirements.
-
+- Terraform
+- OpenTofu
+- Vsphere API
+  
 ## Providers
 
 | Name | Version |
